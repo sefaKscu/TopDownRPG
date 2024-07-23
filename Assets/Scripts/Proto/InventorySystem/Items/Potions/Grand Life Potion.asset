@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08fb45d0a4324dd4289d86199018d1ce, type: 3}
+  m_Name: Grand Life Potion
+  m_EditorClassIdentifier: 
+  id: b0218b0efb4eb94408baef30213a9ba8
+  ItemName: Grand Life POtion
+  Icon: {fileID: -518126131, guid: db02a9f2ce9e13b44af3a7b49de3d5a3, type: 3}
+  itemPrefab: {fileID: 6280911225768513703, guid: 220c0c4727e64994396401603e67580a, type: 3}
+  maximumStack: 5
+  description: This is the default description of an equippable item. It will roar
+    like a bear or it will hum like a bird
+  Type: 0
+  isConsumable: 1
+  Effects:
+  - {fileID: 11400000, guid: 6f8642bfed02b43488a009231f81f055, type: 2}

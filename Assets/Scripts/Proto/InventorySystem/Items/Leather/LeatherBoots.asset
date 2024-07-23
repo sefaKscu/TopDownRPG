@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 683ad26446ee15f4d903ca4cf44b0f52, type: 3}
+  m_Name: LeatherBoots
+  m_EditorClassIdentifier: 
+  id: 0a6ba12b642c33640a2dd8ef4ed443b5
+  ItemName: Hunter Boots
+  Icon: {fileID: -1689488069, guid: f636c03677eb3904788b64a0518c019e, type: 3}
+  itemPrefab: {fileID: 6280911225768513703, guid: 220c0c4727e64994396401603e67580a, type: 3}
+  maximumStack: 1
+  description: This is the default description of an equippable item. It will roar
+    like a bear or it will hum like a bird
+  EquipmentType: 3
+  vitalityFlat: 30
+  vitalityPercent: 0
+  vitalityRegenFlat: 2
+  vitalityRegenPercent: 0
+  mojoFlat: 0
+  mojoPercent: 0
+  mojoRegenFlat: 0
+  mojoRegenPercent: 0
+  damage: 0
+  damagePercent: 0
