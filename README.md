@@ -16,7 +16,12 @@ Storage Hierarchy is as following
 InventoryManager => ItemContainer => ItemSlot => ItemData
 
 Acrchitecture
-![Ekran görüntüsü 2024-07-23 165847](https://github.com/user-attachments/assets/72612a23-e05b-4cc8-9528-b36a2d6ae47c)
+![Ekran görüntüsü 2024-07-23 170310](https://github.com/user-attachments/assets/ce6248c8-819c-4fab-afd1-3a58ce8d3fd1)
+
+Unique id is automatically assigned on to each item in OnValidate callback of Unity.
+This prevents item duplication.
+![Ekran görüntüsü 2024-07-23 170714](https://github.com/user-attachments/assets/90a8bf94-dccd-4149-9ac9-44ea9e6f74bd)
+
 
 ![Ekran görüntüsü 2024-07-23 101302](https://github.com/user-attachments/assets/6c8af7f4-6037-4889-a681-c17bbc175665)
 ![Ekran görüntüsü 2024-07-23 101958](https://github.com/user-attachments/assets/ac8e4499-499e-48bc-af96-1c5ba0759abb)
