@@ -18,7 +18,7 @@ InventoryManager => ItemContainer => ItemSlot => ItemData
 Acrchitecture
 ![Ekran görüntüsü 2024-07-23 170310](https://github.com/user-attachments/assets/ce6248c8-819c-4fab-afd1-3a58ce8d3fd1)
 
-Unique id is automatically assigned on to each item in OnValidate callback of Unity.
+Unique id will be automatically assigned to each item when unity calls OnValidate method.
 This prevents item duplication.
 ![Ekran görüntüsü 2024-07-23 170714](https://github.com/user-attachments/assets/90a8bf94-dccd-4149-9ac9-44ea9e6f74bd)
 
