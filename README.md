@@ -15,7 +15,7 @@ Supports drag/drop/swap/delete/equipt/dequipt items
 Storage Hierarchy is as following
 InventoryManager => ItemContainer => ItemSlot => ItemData
 
-Acrchitecture
+Architecture of the Inventory System
 ![Ekran görüntüsü 2024-07-23 170310](https://github.com/user-attachments/assets/ce6248c8-819c-4fab-afd1-3a58ce8d3fd1)
 
 Unique id will be automatically assigned to each item when unity calls OnValidate method.
