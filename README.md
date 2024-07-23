@@ -1,5 +1,8 @@
 # TopDownRPG
- Simple TopDown RPG
+ Simple TopDown PixelArt RPG
+
+Most of the sprites are from opengameart.com
+Character Sprites and animation from LPC set.
 
 [C# Codes](https://github.com/sefaKscu/TopDownRPG/tree/main/Assets/Scripts)
  
