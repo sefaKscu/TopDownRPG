@@ -12,7 +12,7 @@ INVENTORY SYSTEM
 
 Supports drag/drop/swap/delete/equipt/dequipt items
 
-Storage Hierarchy as follows
+Storage Hierarchy is as following
 InventoryManager => ItemContainer => ItemSlot => ItemData
 
 Acrchitecture
