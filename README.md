@@ -1,6 +1,9 @@
 # TopDownRPG
  Simple TopDown PixelArt RPG
 
+ Goal of this projects is Creating InventorySystem and StatSystem that interacts cleanly.
+ Improved versions of these systems will be included in my own Core Library. So I can easly implement these core functionality and data types to my other projects.
+
 Most of the sprites and tilesets are placeholders from opengameart.com
 Character Sprites and animation from LPC set.
 
